@@ -1,2 +1,2 @@
-# PRODIGY_WD_03
-Tic-Tac-Toe Game
+# Tic-Tac-Toe
+A mini project using HTML, CSS & JS
